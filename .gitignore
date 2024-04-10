@@ -1,0 +1,7 @@
+# linux-only VPC files
+*.a
+*.mak
+*.vpc_crc
+*.project
+*_linux32/
+*_linux64/
